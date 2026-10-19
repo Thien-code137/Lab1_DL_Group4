@@ -1,0 +1,6 @@
+# Cài torch + torchvision tương thích máy CPU/CUDA theo trang chính thức.
+# Đây chưa phải lockfile; TV6 tạo requirements-lock.txt sau khi chạy thành công.
+torch
+torchvision
+numpy
+matplotlib
